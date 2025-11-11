@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+cupcakes.db
+
+# Node
+node_modules/
+dist/
+
+# Env files
+.env
+.env.local
+.env.development
+.env.production
+
+# IDEs e logs
+.vscode/
+.idea/
+*.log
